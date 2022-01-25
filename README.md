@@ -3,7 +3,7 @@ A brief analysis on CSU-ready, diverse students in California.
 
 ## Visualizations
 Please see this link for visualizations: 
-[https://public.tableau.com/app/profile/taylor.takanishi/viz/CalPoly_Analysis/CSU-ReadyApplicantsbySchool](https://public.tableau.com/app/profile/taylor.takanishi/viz/CalPoly_Analysis/CSU-ReadyApplicantsbySchool "link to dashboard")
+[https://public.tableau.com/app/profile/taylor.takanishi/viz/CalPoly_Analysis/LookingLocal?publish=yes](https://public.tableau.com/app/profile/taylor.takanishi/viz/CalPoly_Analysis/LookingLocal?publish=yes "link to dashboard")
 
 ## Process
 - Downloaded data from: [https://www.cde.ca.gov/ds/ad/filesacgr.asp](https://www.cde.ca.gov/ds/ad/filesacgr.asp "link to data")
